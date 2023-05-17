@@ -9,3 +9,6 @@ Simpli is a very basic and quick loading manager for anyone who "simpli" need th
 
 # Is simpli secure?
 Yes! Simpli is secure and will not release any sensitive data.
+
+# **IMPORTANT NOTE**
+You MUST install ipmitool in order to use this!
